@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I am a Master of Engineering student in Computer Engineering at 🇨🇦 [UBC](https://www.ubc.ca).
+- 🌱 I’m currently learning Java/TypeScript, enjoying full-stack web development.
+- 🤔 I like hiking, snowboarding, and exploring challenges.
+- 📫 Email: lushanny@student.ubc.ca
+- 💼 Linkedin: https://www.linkedin.com/in/shannylu/
+- 🎞️ My Website: https://shannelu.github.io/
+
+[![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shannelu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannelu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
