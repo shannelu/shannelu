@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I am a Master of Engineering student in Computer Engineering at 🇨🇦 [UBC](https://www.ubc.ca).
-- 🌱 I’m currently learning Java/TypeScript, enjoying full-stack web development.
+- 🌱 I’m currently learning Java/GoLang, enjoying full-stack web development.
 - 🤔 I like hiking, snowboarding, and exploring challenges.
 - 📫 Email: lushanny@student.ubc.ca
 - 💼 Linkedin: https://www.linkedin.com/in/shannylu/
